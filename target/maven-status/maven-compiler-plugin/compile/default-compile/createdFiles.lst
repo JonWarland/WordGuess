@@ -1,0 +1,4 @@
+com\mycompany\wordguess\Utility.class
+com\mycompany\wordguess\CSVReader.class
+com\mycompany\wordguess\GameLogic.class
+com\mycompany\wordguess\WordGuess.class
